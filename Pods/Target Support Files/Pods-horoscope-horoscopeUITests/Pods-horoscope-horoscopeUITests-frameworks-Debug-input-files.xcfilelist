@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-horoscope-horoscopeUITests/Pods-horoscope-horoscopeUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
